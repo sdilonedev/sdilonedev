@@ -25,7 +25,7 @@
 
 <hr>
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/sdilonedev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sdilonedev&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sdilonedev&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats"/>
 </a>
