@@ -16,7 +16,7 @@
 
 - :school: I am a `Junior Full Stack Developer`.
 - :technologist: I enjoy solving complex problems through software solutions.
-- :computer: My current focus is on building advanced projects using `Next.js`, `React`, and `Node.js`.
+- :computer: My current focus is on building advanced projects using `Next.js`, `React`, `Python` and `Node.js`.
 - :student: I’m currently studying `Systems Engineering` and exploring `Software Development`.
 - :nerd_face: Continuously learning new technologies to enhance my skills.
 - :thinking: I’m currently open to job opportunities. Check out my [RESUME](https://drive.google.com/file/d/1YItOoRaFazcnrSrDs-Cs7ulSEnZo4XMV/view?usp=sharing).
