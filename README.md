@@ -4,15 +4,11 @@
 </p>
 
 
-<br>
-
 
 </p>
 
 
-<picture> <img align="right" src="https://github.com/user-attachments/assets/ea465165-2eda-437d-b34b-4aa316f0f34e" width = 250px></picture>
-
-<br><br>
+<br>
 
 - :school: I am a `Junior Full Stack Developer`.
 - :technologist: I enjoy solving complex problems through software solutions.
